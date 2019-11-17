@@ -23,31 +23,31 @@ function init(){
         length : 3
     }
     let hash = {
-        q : 'qq.com',
-        w : 'wangdoc.com',
+        q : '',
+        w : undefined,
         e : undefined,
-        r : 'react-juejin.foreversnsd.cn',
-        t : 'tgideas.qq.com/doc/',
+        r : undefined,
+        t : 'www.tslang.cn',
         y : 'youtube.com',
-        i : 'iciba.com',
+        i : 'www.iciba.com',
         o : undefined,
         p : undefined,
         a : undefined,
-        s : 'segmentfault.com',
-        d : 'dribbble.com',
+        s : undefined,
+        d : undefined,
         f : undefined,
         g : 'github.com',
         h : undefined,
-        j : 'juejin.im',
-        k : 'ke.qq.com',
+        j : undefined,
+        k : undefined,
         l : undefined,
         z : 'zhihu.com',
-        x : 'xiedaimala.com',
-        c : 'csdn.net',
+        x : undefined,
+        c : undefined,
         v : undefined,
         b : 'bilibili.com',
         n : undefined,
-        m : 'mail.163.com'
+        m : 'mail.qq.com'
     }
     let hasInLocalStorage = getFormLocalStorage('data');
     if(hasInLocalStorage){

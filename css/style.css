@@ -8,7 +8,7 @@ ul{list-style: none;}
 
 /* 注意：这里图片路径是相对路径 */
 body{
-    background: #ccc url(../image/bg.jpg) no-repeat center center;
+    background: #ccc url(https://view.moezx.cc/images/2019/11/17/spencer-davis-ilQmlVIMN4c-unsplash.jpg) no-repeat center center;
     background-size: cover;
 }
 
